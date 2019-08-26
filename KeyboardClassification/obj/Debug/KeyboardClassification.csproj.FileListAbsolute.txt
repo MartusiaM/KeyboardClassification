@@ -1,0 +1,17 @@
+C:\Users\Asus\Desktop\JOB\KeyboardClassification\KeyboardClassification\bin\Debug\KeyboardClassification.exe.config
+C:\Users\Asus\Desktop\JOB\KeyboardClassification\KeyboardClassification\bin\Debug\KeyboardClassification.exe
+C:\Users\Asus\Desktop\JOB\KeyboardClassification\KeyboardClassification\bin\Debug\KeyboardClassification.pdb
+C:\Users\Asus\Desktop\JOB\KeyboardClassification\KeyboardClassification\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Desktop\JOB\KeyboardClassification\KeyboardClassification\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\JOB\KeyboardClassification\KeyboardClassification\bin\Debug\System.Data.SQLite.dll
+C:\Users\Asus\Desktop\JOB\KeyboardClassification\KeyboardClassification\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Asus\Desktop\JOB\KeyboardClassification\KeyboardClassification\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Asus\Desktop\JOB\KeyboardClassification\KeyboardClassification\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Desktop\JOB\KeyboardClassification\KeyboardClassification\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\JOB\KeyboardClassification\KeyboardClassification\bin\Debug\System.Data.SQLite.xml
+C:\Users\Asus\Desktop\JOB\KeyboardClassification\KeyboardClassification\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Asus\Desktop\JOB\KeyboardClassification\KeyboardClassification\obj\Debug\KeyboardClassification.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\JOB\KeyboardClassification\KeyboardClassification\obj\Debug\KeyboardClassification.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\JOB\KeyboardClassification\KeyboardClassification\obj\Debug\KeyboardClassification.csproj.CopyComplete
+C:\Users\Asus\Desktop\JOB\KeyboardClassification\KeyboardClassification\obj\Debug\KeyboardClassification.exe
+C:\Users\Asus\Desktop\JOB\KeyboardClassification\KeyboardClassification\obj\Debug\KeyboardClassification.pdb
